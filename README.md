@@ -1,6 +1,6 @@
 
 # Dorsa-Agency
-Digital product design & development for growth-minded companies. We craft clear experiences, reliable web apps, and results-driven digital strategies.
+Digital product design ,development for growth-minded companies, and results-driven digital strategies using Social Media marketing and AI Marketing ,Web Designing (currently). Banking Project controller at ISC Company (Informatics Services Corporation)(15 years experiences)
 
 [![Website](https://img.shields.io/badge/website-dorsa-agency.com-blue)](https://dorsa-agency.com) [![Email](https://img.shields.io/badge/email-contact%40dorsa-agency.com-green)](mailto:contact@dorsa-agency.com) [![GitHub](https://img.shields.io/badge/github-Dorsa--Agency-181717?logo=github)](https://github.com/alavi10052)
 
@@ -13,12 +13,12 @@ Dorsa-Agency is a small, focused team delivering end-to-end digital products: fr
 
 ## Services
 - Product strategy & discovery
-- UX / UI design and prototyping (Figma, prototypes)
-- Frontend development (React, Vue)
-- Backend & API development (Node, Django, Flask)
-- DevOps & cloud (AWS, GCP, Docker, CI/CD)
-- SEO, analytics, and conversion optimization
+- UX / UI design and prototyping ( prototypes)
+- Frontend development ( Using Lovable,supabase )
+- Developing Automation Systems and AI-Agent Workflow (n8n) 
 - Ongoing maintenance and team augmentation
+- Designing Digital Advertising products including Logo,catalog,brochure,business card in order to grow and develop digital strategy(Canva,AI,.. )
+- Social media developer and Content creation 
 
 ## How we work
 1. Discovery — align on goals, users, and success metrics.  
@@ -26,19 +26,12 @@ Dorsa-Agency is a small, focused team delivering end-to-end digital products: fr
 3. Build — iterative sprints with demos and feedback loops.  
 4. Launch & measure — deploy, monitor, and improve.
 
-## Selected projects
-- E-Commerce Launch — Full-stack store + admin (link placeholder)  
-- Analytics Dashboard — Custom dashboards and alerts (link placeholder)  
-- Marketing Site (GitHub Pages) — Fast, SEO-friendly landing (link placeholder)
+##  project's sample
+- Analytics Dashboard — Custom dashboards and alerts (https://dorsa.lovable.app) 
+- E-Commerce Launch sample — Full-stack  (https://supabase-product-shelf.lovable.app)  
+- Content creation and Administration for Social media content of various companies (Turism and health company in Turkey "Azpo",Insurance company in   Germany"Argo",AI solution company in France" Ad4ta"), 
 
-Replace the above with real project links or case studies.
 
-## Testimonials
-> "Dorsa-Agency helped us refocus product priorities and shipped a polished MVP on schedule." — Client Name, Company
-
-> "Clear communication and excellent delivery — the new site increased conversions by 30%." — Client Name, Company
-
-(Replace with your real testimonials.)
 
 ## Pricing & engagements
 - Discovery / audit: 1–2 week engagements  
@@ -46,10 +39,10 @@ Replace the above with real project links or case studies.
 - Product builds: milestone-based contracts with staged delivery
 
 ## Contact
-- Email: contact@dorsa-agency.com  
-- Website: https://dorsa-agency.com  
-- LinkedIn: https://linkedin.com/company/dorsa-agency  
+- Email: alavifaezeh0@gmail.com
+- LinkedIn: https://linkedin.com/in/faezeh-alavi
 - GitHub: https://github.com/alavi10052
+  
 
 ## Open source & contributions
 We welcome collaboration. See CONTRIBUTING.md in each repo for contribution guidelines.
@@ -57,18 +50,5 @@ We welcome collaboration. See CONTRIBUTING.md in each repo for contribution guid
 ## License
 This repository is licensed under the MIT License — see LICENSE for details.
 
----
 
-Usage (add this README to a repo)
-1. For a profile README (visible on your GitHub profile): create a repository named exactly `alavi10052` and add this README.md to its root.  
-2. For a repo README: create a repo (example: `dorsa-agency-site`) and add this README.md.
-
-Example git commands:
-```bash
-git init
-git add README.md
-git commit -m "Add Dorsa-Agency README"
-git branch -M main
-git remote add origin git@github.com:alavi10052/REPO.git
-git push -u origin main
 ```
